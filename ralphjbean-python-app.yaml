@@ -2,6 +2,6 @@
 mapping:
   components:
     - name: sync2jira
-      repository: quay.io/rbean/sync2jira-test
+      repository: quay.io/hacbs-release-tests/sync2jira-test
     - name: sync-page
-      repository: quay.io/rbean/sync-page-test
+      repository: quay.io/hacbs-release-tests/sync-page-test
